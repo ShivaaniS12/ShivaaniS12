@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Shivu 👋<br><br>💻 Full-Stack Java Developer | AI Enthusiast | Problem Solver<br><br>I'm passionate about building real-world web applications that combine clean design, scalable architecture, and practical functionality. I enjoy transforming ideas into complete products—from backend development to intuitive user experiences.<br><br>### 🚀 What I Work With<br>- Java, JSP, Servlets<br>- Spring Boot (Learning)<br>- MySQL, JDBC<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br>- Python<br>- AI Tools & Automation<br>- REST APIs<br><br>### 🌱 Currently Building<br>- 🛒 A Zepto-style grocery delivery platform focused on fresh fruits and vegetables.<br>- 🍽️ Food delivery applications with restaurant, customer, delivery partner, and admin portals.<br>- 🤖 AI-powered solutions to improve user experience and business workflows.<br><br>### 📌 Projects<br>- **SUVAIO** – A full-stack food delivery platform built using Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, and JavaScript following the MVC architecture.<br>- **Skin Cancer Detection System** – A deep learning-based web application for skin cancer classification with an intuitive prediction interface.<br>- **Smart Irrigation System using IoT** – An IoT-powered automated irrigation system built with NodeMCU ESP8266, Java, and Blynk that monitors real-time soil moisture and intelligently controls water pumps, enabling remote monitoring while reducing water wastage through smart irrigation.<br><br>### 🎯 Interests<br>- Full-Stack Development<br>- Software Architecture<br>- Artificial Intelligence<br>- UI/UX Design<br>- Startup Products<br>- Automation<br>- Cloud Technologies<br><br>### 📈 Goals<br>- Become a highly skilled Full-Stack Software Engineer.<br>- Build scalable products that solve everyday problems.<br>- Continuously learn new technologies and contribute to impactful projects.<br><br>> *"Great software isn't just built—it solves real problems and creates meaningful experiences."*
 
-<!--
-**ShivaaniS12/ShivaaniS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Shivaani S) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivaani-s-2004ss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivaaniis04@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ShivaaniS12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ShivaaniS12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShivaaniS12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ShivaaniS12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
